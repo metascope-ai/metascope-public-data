@@ -50,7 +50,9 @@
     "actual_winner_id": 3272,
     "actual_winner_name": "TheMongolz",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 98593.0,
+    "bank_after": 99463.0
   },
   {
     "public_prediction_id": 2,
@@ -103,7 +105,9 @@
     "actual_winner_id": 135321,
     "actual_winner_name": "G2 Ares",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 96463.0,
+    "bank_after": 95463.0
   },
   {
     "public_prediction_id": 3,
@@ -156,7 +160,9 @@
     "actual_winner_id": 132426,
     "actual_winner_name": "Lazer Cats",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 91418.0,
+    "bank_after": 90418.0
   },
   {
     "public_prediction_id": 4,
@@ -209,7 +215,9 @@
     "actual_winner_id": 138400,
     "actual_winner_name": "mellren",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 89819.0,
+    "bank_after": 90529.0
   },
   {
     "public_prediction_id": 5,
@@ -262,7 +270,9 @@
     "actual_winner_id": 136318,
     "actual_winner_name": "Marsborne",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 88420.0,
+    "bank_after": 89080.0
   },
   {
     "public_prediction_id": 6,
@@ -315,7 +325,9 @@
     "actual_winner_id": 138660,
     "actual_winner_name": "WRAITH PCIFIC",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 89080.0,
+    "bank_after": 90446.0
   },
   {
     "public_prediction_id": 7,
@@ -368,7 +380,9 @@
     "actual_winner_id": 137496,
     "actual_winner_name": "SportsBetExpert",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 91045.0,
+    "bank_after": 90045.0
   },
   {
     "public_prediction_id": 8,
@@ -421,7 +435,9 @@
     "actual_winner_id": 3256,
     "actual_winner_name": "NRG",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 90045.0,
+    "bank_after": 89045.0
   },
   {
     "public_prediction_id": 9,
@@ -474,7 +490,9 @@
     "actual_winner_id": 135468,
     "actual_winner_name": "ShindeN",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 87885.0,
+    "bank_after": 89574.0
   },
   {
     "public_prediction_id": 10,
@@ -527,7 +545,9 @@
     "actual_winner_id": 125774,
     "actual_winner_name": "HAVU",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 88574.0,
+    "bank_after": 87574.0
   },
   {
     "public_prediction_id": 11,
@@ -580,7 +600,9 @@
     "actual_winner_id": 125774,
     "actual_winner_name": "HAVU",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 85902.0,
+    "bank_after": 84902.0
   },
   {
     "public_prediction_id": 12,
@@ -633,7 +655,9 @@
     "actual_winner_id": 3250,
     "actual_winner_name": "MIBR",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 80642.0,
+    "bank_after": 79642.0
   },
   {
     "public_prediction_id": 13,
@@ -686,7 +710,9 @@
     "actual_winner_id": 136318,
     "actual_winner_name": "Marsborne",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 83902.0,
+    "bank_after": 82902.0
   },
   {
     "public_prediction_id": 14,
@@ -739,7 +765,9 @@
     "actual_winner_id": 126624,
     "actual_winner_name": "Brute",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 78536.0,
+    "bank_after": 80556.0
   },
   {
     "public_prediction_id": 15,
@@ -792,7 +820,9 @@
     "actual_winner_id": 137510,
     "actual_winner_name": "Voca",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 78642.0,
+    "bank_after": 80536.0
   },
   {
     "public_prediction_id": 16,
@@ -845,7 +875,9 @@
     "actual_winner_id": 138812,
     "actual_winner_name": "Noir Verse",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": null,
+    "bank_after": null
   },
   {
     "public_prediction_id": 17,
@@ -898,7 +930,9 @@
     "actual_winner_id": 3256,
     "actual_winner_name": "NRG",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 80556.0,
+    "bank_after": 79556.0
   },
   {
     "public_prediction_id": 18,
@@ -951,7 +985,9 @@
     "actual_winner_id": 131010,
     "actual_winner_name": "Sashi Esport",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100870.0,
+    "bank_after": 99870.0
   },
   {
     "public_prediction_id": 19,
@@ -1004,7 +1040,9 @@
     "actual_winner_id": 131010,
     "actual_winner_name": "Sashi Esport",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 99870.0,
+    "bank_after": 98870.0
   },
   {
     "public_prediction_id": 20,
@@ -1057,7 +1095,9 @@
     "actual_winner_id": 126944,
     "actual_winner_name": "1WIN",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 99560.0,
+    "bank_after": 100260.0
   },
   {
     "public_prediction_id": 21,
@@ -1110,7 +1150,9 @@
     "actual_winner_id": 135673,
     "actual_winner_name": "Nuclear TigeRES",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 99260.0,
+    "bank_after": 100130.0
   },
   {
     "public_prediction_id": 22,
@@ -1163,7 +1205,9 @@
     "actual_winner_id": 133542,
     "actual_winner_name": "CYBERSHOKE Esports",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100780.0,
+    "bank_after": 99780.0
   },
   {
     "public_prediction_id": 23,
@@ -1216,7 +1260,9 @@
     "actual_winner_id": 138092,
     "actual_winner_name": "Abyssal",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100130.0,
+    "bank_after": 100780.0
   },
   {
     "public_prediction_id": 24,
@@ -1269,7 +1315,9 @@
     "actual_winner_id": 3256,
     "actual_winner_name": "NRG",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100680.0,
+    "bank_after": 99680.0
   },
   {
     "public_prediction_id": 25,
@@ -1322,7 +1370,9 @@
     "actual_winner_id": 138830,
     "actual_winner_name": "ECHO",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 99680.0,
+    "bank_after": 100330.0
   },
   {
     "public_prediction_id": 26,
@@ -1375,7 +1425,9 @@
     "actual_winner_id": 136560,
     "actual_winner_name": "Phantom",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 99330.0,
+    "bank_after": 100474.0
   },
   {
     "public_prediction_id": 27,
@@ -1428,7 +1480,9 @@
     "actual_winner_id": 3217,
     "actual_winner_name": "fnatic",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100330.0,
+    "bank_after": 99330.0
   },
   {
     "public_prediction_id": 28,
@@ -1481,7 +1535,9 @@
     "actual_winner_id": 138092,
     "actual_winner_name": "Abyssal",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 105229.0,
+    "bank_after": 104229.0
   },
   {
     "public_prediction_id": 29,
@@ -1534,7 +1590,9 @@
     "actual_winner_id": 124530,
     "actual_winner_name": "FURIA",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103229.0,
+    "bank_after": 104555.0
   },
   {
     "public_prediction_id": 30,
@@ -1587,7 +1645,9 @@
     "actual_winner_id": 3249,
     "actual_winner_name": "BIG",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104229.0,
+    "bank_after": 103229.0
   },
   {
     "public_prediction_id": 31,
@@ -1640,7 +1700,9 @@
     "actual_winner_id": 135227,
     "actual_winner_name": "ENJOY",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103555.0,
+    "bank_after": 104697.0
   },
   {
     "public_prediction_id": 32,
@@ -1693,7 +1755,9 @@
     "actual_winner_id": 3212,
     "actual_winner_name": "FaZe",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104555.0,
+    "bank_after": 103555.0
   },
   {
     "public_prediction_id": 33,
@@ -1746,7 +1810,9 @@
     "actual_winner_id": 133719,
     "actual_winner_name": "PARIVISION",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 105737.0,
+    "bank_after": 104737.0
   },
   {
     "public_prediction_id": 34,
@@ -1799,7 +1865,9 @@
     "actual_winner_id": 135227,
     "actual_winner_name": "ENJOY",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104697.0,
+    "bank_after": 105157.0
   },
   {
     "public_prediction_id": 35,
@@ -1852,7 +1920,9 @@
     "actual_winner_id": 125751,
     "actual_winner_name": "paiN",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 105832.0,
+    "bank_after": 104832.0
   },
   {
     "public_prediction_id": 36,
@@ -1905,7 +1975,9 @@
     "actual_winner_id": 137580,
     "actual_winner_name": " Phantom Academy",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104737.0,
+    "bank_after": 105832.0
   },
   {
     "public_prediction_id": 37,
@@ -1958,7 +2030,9 @@
     "actual_winner_id": 125774,
     "actual_winner_name": "HAVU",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103832.0,
+    "bank_after": 102832.0
   },
   {
     "public_prediction_id": 38,
@@ -2011,7 +2085,9 @@
     "actual_winner_id": 136659,
     "actual_winner_name": "SPARTA",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": null,
+    "bank_after": null
   },
   {
     "public_prediction_id": 39,
@@ -2064,7 +2140,9 @@
     "actual_winner_id": 138963,
     "actual_winner_name": "Black Phoenix",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 102832.0,
+    "bank_after": 103516.0
   },
   {
     "public_prediction_id": 40,
@@ -2117,7 +2195,9 @@
     "actual_winner_id": 136955,
     "actual_winner_name": "FUT Esports",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103516.0,
+    "bank_after": 104921.0
   },
   {
     "public_prediction_id": 41,
@@ -2170,7 +2250,9 @@
     "actual_winner_id": 137703,
     "actual_winner_name": "ex-Zero Tenacity",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104921.0,
+    "bank_after": 103921.0
   },
   {
     "public_prediction_id": 42,
@@ -2223,7 +2305,9 @@
     "actual_winner_id": 137703,
     "actual_winner_name": "ex-Zero Tenacity",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103921.0,
+    "bank_after": 102921.0
   },
   {
     "public_prediction_id": 43,
@@ -2276,7 +2360,9 @@
     "actual_winner_id": 137500,
     "actual_winner_name": "CYBERSHOKE Prospects",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 102921.0,
+    "bank_after": 103671.0
   },
   {
     "public_prediction_id": 44,
@@ -2329,7 +2415,9 @@
     "actual_winner_id": 131253,
     "actual_winner_name": "ODDIK",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103671.0,
+    "bank_after": 102671.0
   },
   {
     "public_prediction_id": 45,
@@ -2382,7 +2470,9 @@
     "actual_winner_id": 131110,
     "actual_winner_name": "Mindfreak",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 102671.0,
+    "bank_after": 103381.0
   },
   {
     "public_prediction_id": 46,
@@ -2435,7 +2525,9 @@
     "actual_winner_id": 130570,
     "actual_winner_name": "QUAZAR",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103381.0,
+    "bank_after": 104181.0
   },
   {
     "public_prediction_id": 47,
@@ -2488,7 +2580,9 @@
     "actual_winner_id": 133708,
     "actual_winner_name": "Legacy",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104181.0,
+    "bank_after": 105201.0
   },
   {
     "public_prediction_id": 48,
@@ -2541,7 +2635,9 @@
     "actual_winner_id": 135321,
     "actual_winner_name": "G2 Ares",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 105201.0,
+    "bank_after": 104201.0
   },
   {
     "public_prediction_id": 49,
@@ -2594,7 +2690,9 @@
     "actual_winner_id": 136318,
     "actual_winner_name": "Marsborne",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 104201.0,
+    "bank_after": 103201.0
   },
   {
     "public_prediction_id": 50,
@@ -2647,7 +2745,9 @@
     "actual_winner_id": 133063,
     "actual_winner_name": "UNiTY esports",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 103201.0,
+    "bank_after": 104280.0
   },
   {
     "public_prediction_id": 51,
@@ -2700,7 +2800,9 @@
     "actual_winner_id": 137440,
     "actual_winner_name": "ASTRAL",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 107074.0,
+    "bank_after": 106074.0
   },
   {
     "public_prediction_id": 52,
@@ -2753,7 +2855,9 @@
     "actual_winner_id": 3240,
     "actual_winner_name": "MOUZ",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 106074.0,
+    "bank_after": 105074.0
   },
   {
     "public_prediction_id": 53,
@@ -2806,7 +2910,9 @@
     "actual_winner_id": 135673,
     "actual_winner_name": "Nuclear TigeRES",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 106134.0,
+    "bank_after": 106714.0
   },
   {
     "public_prediction_id": 54,
@@ -2859,7 +2965,9 @@
     "actual_winner_id": 127976,
     "actual_winner_name": "Infinite",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 105074.0,
+    "bank_after": 105574.0
   },
   {
     "public_prediction_id": 55,
@@ -2912,7 +3020,9 @@
     "actual_winner_id": 138406,
     "actual_winner_name": "Just Players",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 106714.0,
+    "bank_after": 105714.0
   },
   {
     "public_prediction_id": 56,
@@ -2965,7 +3075,9 @@
     "actual_winner_id": 132551,
     "actual_winner_name": "Reveal",
     "prediction_result": "loss",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100640.0,
+    "bank_after": 99640.0
   },
   {
     "public_prediction_id": 57,
@@ -3018,7 +3130,9 @@
     "actual_winner_id": 138276,
     "actual_winner_name": "ALKA GAMING",
     "prediction_result": "win",
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": 100000.0,
+    "bank_after": 100640.0
   },
   {
     "public_prediction_id": 58,
@@ -3071,7 +3185,9 @@
     "actual_winner_id": null,
     "actual_winner_name": null,
     "prediction_result": null,
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": null,
+    "bank_after": null
   },
   {
     "public_prediction_id": 59,
@@ -3124,6 +3240,8 @@
     "actual_winner_id": null,
     "actual_winner_name": null,
     "prediction_result": null,
-    "is_public_channel": 1
+    "is_public_channel": 1,
+    "bank_before": null,
+    "bank_after": null
   }
 ]
