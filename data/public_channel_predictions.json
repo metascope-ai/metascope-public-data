@@ -16,7 +16,7 @@
     "predicted_winner_id": 3272,
     "team1_probability": 0.3652973122869152,
     "team2_probability": 0.6347026877130848,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-07-24T15:40:28+00:00",
     "paper_bet_id": 8,
     "strategy": "value_3pp",
@@ -44,10 +44,13 @@
     "team1_name": "Heroic",
     "team2_id": 3272,
     "team2_name": "TheMongolz",
-    "winner_id": 3272,
+    "match_winner_id": 3272,
     "predicted_winner_name": "TheMongolz",
     "selection_team_name": "TheMongolz",
-    "actual_winner_name": "TheMongolz"
+    "actual_winner_id": 3272,
+    "actual_winner_name": "TheMongolz",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 2,
@@ -66,7 +69,7 @@
     "predicted_winner_id": 138975,
     "team1_probability": 0.6436595468596675,
     "team2_probability": 0.35634045314033247,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-07-24T20:30:27+00:00",
     "paper_bet_id": 22,
     "strategy": "value_3pp",
@@ -94,10 +97,13 @@
     "team1_name": "Butterfly",
     "team2_id": 135321,
     "team2_name": "G2 Ares",
-    "winner_id": 135321,
+    "match_winner_id": 135321,
     "predicted_winner_name": "Butterfly",
     "selection_team_name": "Butterfly",
-    "actual_winner_name": "G2 Ares"
+    "actual_winner_id": 135321,
+    "actual_winner_name": "G2 Ares",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 3,
@@ -116,7 +122,7 @@
     "predicted_winner_id": 137861,
     "team1_probability": 0.6521391801087792,
     "team2_probability": 0.34786081989122075,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-07-26T16:50:29+00:00",
     "paper_bet_id": 71,
     "strategy": "value_3pp",
@@ -144,10 +150,13 @@
     "team1_name": "STATE",
     "team2_id": 132426,
     "team2_name": "Lazer Cats",
-    "winner_id": 132426,
+    "match_winner_id": 132426,
     "predicted_winner_name": "STATE",
     "selection_team_name": "STATE",
-    "actual_winner_name": "Lazer Cats"
+    "actual_winner_id": 132426,
+    "actual_winner_name": "Lazer Cats",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 4,
@@ -166,7 +175,7 @@
     "predicted_winner_id": 138400,
     "team1_probability": 0.3043538889002823,
     "team2_probability": 0.6956461110997176,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-07-26T20:30:28+00:00",
     "paper_bet_id": 82,
     "strategy": "value_3pp",
@@ -194,10 +203,13 @@
     "team1_name": "A Great Chaos",
     "team2_id": 138400,
     "team2_name": "mellren",
-    "winner_id": 138400,
+    "match_winner_id": 138400,
     "predicted_winner_name": "mellren",
     "selection_team_name": "mellren",
-    "actual_winner_name": "mellren"
+    "actual_winner_id": 138400,
+    "actual_winner_name": "mellren",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 5,
@@ -216,7 +228,7 @@
     "predicted_winner_id": 136318,
     "team1_probability": 0.37623385894159833,
     "team2_probability": 0.6237661410584017,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-07-28T23:50:18+00:00",
     "paper_bet_id": 148,
     "strategy": "value_3pp",
@@ -244,10 +256,13 @@
     "team1_name": "LAG Gaming",
     "team2_id": 136318,
     "team2_name": "Marsborne",
-    "winner_id": 136318,
+    "match_winner_id": 136318,
     "predicted_winner_name": "Marsborne",
     "selection_team_name": "Marsborne",
-    "actual_winner_name": "Marsborne"
+    "actual_winner_id": 136318,
+    "actual_winner_name": "Marsborne",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 6,
@@ -266,7 +281,7 @@
     "predicted_winner_id": 138660,
     "team1_probability": 0.267807403259653,
     "team2_probability": 0.732192596740347,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-07-29T10:30:28+00:00",
     "paper_bet_id": 153,
     "strategy": "value_3pp",
@@ -294,10 +309,13 @@
     "team1_name": "Teletubisie",
     "team2_id": 138660,
     "team2_name": "WRAITH PCIFIC",
-    "winner_id": 138660,
+    "match_winner_id": 138660,
     "predicted_winner_name": "WRAITH PCIFIC",
     "selection_team_name": "WRAITH PCIFIC",
-    "actual_winner_name": "WRAITH PCIFIC"
+    "actual_winner_id": 138660,
+    "actual_winner_name": "WRAITH PCIFIC",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 7,
@@ -316,7 +334,7 @@
     "predicted_winner_id": 136064,
     "team1_probability": 0.5682428668302643,
     "team2_probability": 0.43175713316973574,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-07-29T21:30:27+00:00",
     "paper_bet_id": 168,
     "strategy": "value_3pp",
@@ -344,10 +362,13 @@
     "team1_name": "Chicken Coop Esports",
     "team2_id": 137496,
     "team2_name": "SportsBetExpert",
-    "winner_id": 137496,
+    "match_winner_id": 137496,
     "predicted_winner_name": "Chicken Coop Esports",
     "selection_team_name": "Chicken Coop Esports",
-    "actual_winner_name": "SportsBetExpert"
+    "actual_winner_id": 137496,
+    "actual_winner_name": "SportsBetExpert",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 8,
@@ -366,7 +387,7 @@
     "predicted_winner_id": 136318,
     "team1_probability": 0.36519556744669407,
     "team2_probability": 0.634804432553306,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-07-30T00:30:19+00:00",
     "paper_bet_id": 170,
     "strategy": "value_3pp",
@@ -394,10 +415,13 @@
     "team1_name": "NRG",
     "team2_id": 136318,
     "team2_name": "Marsborne",
-    "winner_id": 3256,
+    "match_winner_id": 3256,
     "predicted_winner_name": "Marsborne",
     "selection_team_name": "Marsborne",
-    "actual_winner_name": "NRG"
+    "actual_winner_id": 3256,
+    "actual_winner_name": "NRG",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 9,
@@ -416,7 +440,7 @@
     "predicted_winner_id": 135468,
     "team1_probability": 0.45704331447078494,
     "team2_probability": 0.542956685529215,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-07-30T21:30:21+00:00",
     "paper_bet_id": 197,
     "strategy": "value_3pp",
@@ -444,10 +468,13 @@
     "team1_name": "Imperial",
     "team2_id": 135468,
     "team2_name": "ShindeN",
-    "winner_id": 135468,
+    "match_winner_id": 135468,
     "predicted_winner_name": "ShindeN",
     "selection_team_name": "ShindeN",
-    "actual_winner_name": "ShindeN"
+    "actual_winner_id": 135468,
+    "actual_winner_name": "ShindeN",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 10,
@@ -466,7 +493,7 @@
     "predicted_winner_id": 138992,
     "team1_probability": 0.36960903114525184,
     "team2_probability": 0.6303909688547482,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-07-31T09:30:31+00:00",
     "paper_bet_id": 208,
     "strategy": "value_3pp",
@@ -494,10 +521,13 @@
     "team1_name": "HAVU",
     "team2_id": 138992,
     "team2_name": "Trainwrecks eSports",
-    "winner_id": 125774,
+    "match_winner_id": 125774,
     "predicted_winner_name": "Trainwrecks eSports",
     "selection_team_name": "Trainwrecks eSports",
-    "actual_winner_name": "HAVU"
+    "actual_winner_id": 125774,
+    "actual_winner_name": "HAVU",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 11,
@@ -516,7 +546,7 @@
     "predicted_winner_id": 132459,
     "team1_probability": 0.41493981082200104,
     "team2_probability": 0.585060189177999,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-07-31T18:10:29+00:00",
     "paper_bet_id": 227,
     "strategy": "value_3pp",
@@ -544,10 +574,13 @@
     "team1_name": "HAVU",
     "team2_id": 132459,
     "team2_name": "ROUNDS",
-    "winner_id": 125774,
+    "match_winner_id": 125774,
     "predicted_winner_name": "ROUNDS",
     "selection_team_name": "ROUNDS",
-    "actual_winner_name": "HAVU"
+    "actual_winner_id": 125774,
+    "actual_winner_name": "HAVU",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 12,
@@ -566,7 +599,7 @@
     "predicted_winner_id": 135468,
     "team1_probability": 0.2665402783154748,
     "team2_probability": 0.7334597216845252,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-01T20:10:53+00:00",
     "paper_bet_id": 255,
     "strategy": "value_3pp",
@@ -594,10 +627,13 @@
     "team1_name": "MIBR",
     "team2_id": 135468,
     "team2_name": "ShindeN",
-    "winner_id": 3250,
+    "match_winner_id": 3250,
     "predicted_winner_name": "ShindeN",
     "selection_team_name": "ShindeN",
-    "actual_winner_name": "MIBR"
+    "actual_winner_id": 3250,
+    "actual_winner_name": "MIBR",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 13,
@@ -616,7 +652,7 @@
     "predicted_winner_id": 133997,
     "team1_probability": 0.44028383965963885,
     "team2_probability": 0.5597161603403611,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-01T02:30:42+00:00",
     "paper_bet_id": 232,
     "strategy": "value_3pp",
@@ -644,10 +680,13 @@
     "team1_name": "Marsborne",
     "team2_id": 133997,
     "team2_name": "regain",
-    "winner_id": 136318,
+    "match_winner_id": 136318,
     "predicted_winner_name": "regain",
     "selection_team_name": "regain",
-    "actual_winner_name": "Marsborne"
+    "actual_winner_id": 136318,
+    "actual_winner_name": "Marsborne",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 14,
@@ -666,7 +705,7 @@
     "predicted_winner_id": 126624,
     "team1_probability": 0.3291705745231925,
     "team2_probability": 0.6708294254768075,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-02T12:00:29+00:00",
     "paper_bet_id": 263,
     "strategy": "value_3pp",
@@ -694,10 +733,13 @@
     "team1_name": "9INE",
     "team2_id": 126624,
     "team2_name": "Brute",
-    "winner_id": 126624,
+    "match_winner_id": 126624,
     "predicted_winner_name": "Brute",
     "selection_team_name": "Brute",
-    "actual_winner_name": "Brute"
+    "actual_winner_id": 126624,
+    "actual_winner_name": "Brute",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 15,
@@ -716,7 +758,7 @@
     "predicted_winner_id": 137510,
     "team1_probability": 0.3524448333380996,
     "team2_probability": 0.6475551666619004,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-02T00:20:29+00:00",
     "paper_bet_id": 258,
     "strategy": "value_3pp",
@@ -744,10 +786,13 @@
     "team1_name": "NRG",
     "team2_id": 137510,
     "team2_name": "Voca",
-    "winner_id": 137510,
+    "match_winner_id": 137510,
     "predicted_winner_name": "Voca",
     "selection_team_name": "Voca",
-    "actual_winner_name": "Voca"
+    "actual_winner_id": 137510,
+    "actual_winner_name": "Voca",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 16,
@@ -766,7 +811,7 @@
     "predicted_winner_id": 137953,
     "team1_probability": 0.3549911098467444,
     "team2_probability": 0.6450088901532556,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-03T14:50:30+00:00",
     "paper_bet_id": 297,
     "strategy": "value_3pp",
@@ -794,10 +839,13 @@
     "team1_name": "Noir Verse",
     "team2_id": 137953,
     "team2_name": "Fortress",
-    "winner_id": 138812,
+    "match_winner_id": 138812,
     "predicted_winner_name": "Fortress",
     "selection_team_name": "Fortress",
-    "actual_winner_name": "Noir Verse"
+    "actual_winner_id": 138812,
+    "actual_winner_name": "Noir Verse",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 17,
@@ -816,7 +864,7 @@
     "predicted_winner_id": 137496,
     "team1_probability": 0.44773813320593514,
     "team2_probability": 0.5522618667940649,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-03T00:10:30+00:00",
     "paper_bet_id": 282,
     "strategy": "value_3pp",
@@ -844,10 +892,13 @@
     "team1_name": "NRG",
     "team2_id": 137496,
     "team2_name": "SportsBetExpert",
-    "winner_id": 3256,
+    "match_winner_id": 3256,
     "predicted_winner_name": "SportsBetExpert",
     "selection_team_name": "SportsBetExpert",
-    "actual_winner_name": "NRG"
+    "actual_winner_id": 3256,
+    "actual_winner_name": "NRG",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 18,
@@ -866,7 +917,7 @@
     "predicted_winner_id": 136560,
     "team1_probability": 0.31710480379815814,
     "team2_probability": 0.6828951962018419,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-04T13:00:30+00:00",
     "paper_bet_id": 330,
     "strategy": "value_3pp",
@@ -894,10 +945,13 @@
     "team1_name": "Sashi Esport",
     "team2_id": 136560,
     "team2_name": "Phantom",
-    "winner_id": 131010,
+    "match_winner_id": 131010,
     "predicted_winner_name": "Phantom",
     "selection_team_name": "Phantom",
-    "actual_winner_name": "Sashi Esport"
+    "actual_winner_id": 131010,
+    "actual_winner_name": "Sashi Esport",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 19,
@@ -916,7 +970,7 @@
     "predicted_winner_id": 128519,
     "team1_probability": 0.37482177425695734,
     "team2_probability": 0.6251782257430427,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-05T11:20:30+00:00",
     "paper_bet_id": 341,
     "strategy": "value_3pp",
@@ -944,10 +998,13 @@
     "team1_name": "Sashi Esport",
     "team2_id": 128519,
     "team2_name": "GenOne",
-    "winner_id": 131010,
+    "match_winner_id": 131010,
     "predicted_winner_name": "GenOne",
     "selection_team_name": "GenOne",
-    "actual_winner_name": "Sashi Esport"
+    "actual_winner_id": 131010,
+    "actual_winner_name": "Sashi Esport",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 20,
@@ -966,7 +1023,7 @@
     "predicted_winner_id": 126944,
     "team1_probability": 0.668038408191787,
     "team2_probability": 0.33196159180821305,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-05T15:00:12+00:00",
     "paper_bet_id": 343,
     "strategy": "value_3pp",
@@ -994,10 +1051,13 @@
     "team1_name": "1WIN",
     "team2_id": 138617,
     "team2_name": "INOX Division",
-    "winner_id": 126944,
+    "match_winner_id": 126944,
     "predicted_winner_name": "1WIN",
     "selection_team_name": "1WIN",
-    "actual_winner_name": "1WIN"
+    "actual_winner_id": 126944,
+    "actual_winner_name": "1WIN",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 21,
@@ -1016,7 +1076,7 @@
     "predicted_winner_id": 135673,
     "team1_probability": 0.6985250352532705,
     "team2_probability": 0.3014749647467295,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-06T11:00:30+00:00",
     "paper_bet_id": 346,
     "strategy": "value_3pp",
@@ -1044,10 +1104,13 @@
     "team1_name": "Sashi Esport",
     "team2_id": 135673,
     "team2_name": "Nuclear TigeRES",
-    "winner_id": 135673,
+    "match_winner_id": 135673,
     "predicted_winner_name": "Nuclear TigeRES",
     "selection_team_name": "Nuclear TigeRES",
-    "actual_winner_name": "Nuclear TigeRES"
+    "actual_winner_id": 135673,
+    "actual_winner_name": "Nuclear TigeRES",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 22,
@@ -1066,7 +1129,7 @@
     "predicted_winner_id": 128519,
     "team1_probability": 0.3479609217113192,
     "team2_probability": 0.6520390782886808,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-07T18:50:08+00:00",
     "paper_bet_id": 366,
     "strategy": "value_3pp",
@@ -1094,10 +1157,13 @@
     "team1_name": "CYBERSHOKE Esports",
     "team2_id": 128519,
     "team2_name": "GenOne",
-    "winner_id": 133542,
+    "match_winner_id": 133542,
     "predicted_winner_name": "GenOne",
     "selection_team_name": "GenOne",
-    "actual_winner_name": "CYBERSHOKE Esports"
+    "actual_winner_id": 133542,
+    "actual_winner_name": "CYBERSHOKE Esports",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 23,
@@ -1116,7 +1182,7 @@
     "predicted_winner_id": 138092,
     "team1_probability": 0.7311011800709636,
     "team2_probability": 0.2688988199290364,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-07T12:10:25+00:00",
     "paper_bet_id": 365,
     "strategy": "value_3pp",
@@ -1144,10 +1210,13 @@
     "team1_name": "Abyssal",
     "team2_id": 133333,
     "team2_name": "Arcade Esports",
-    "winner_id": 138092,
+    "match_winner_id": 138092,
     "predicted_winner_name": "Abyssal",
     "selection_team_name": "Abyssal",
-    "actual_winner_name": "Abyssal"
+    "actual_winner_id": 138092,
+    "actual_winner_name": "Abyssal",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 24,
@@ -1166,7 +1235,7 @@
     "predicted_winner_id": 137546,
     "team1_probability": 0.5748299782494887,
     "team2_probability": 0.42517002175051133,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-08T12:00:11+00:00",
     "paper_bet_id": 381,
     "strategy": "value_3pp",
@@ -1194,10 +1263,13 @@
     "team1_name": "Acend",
     "team2_id": 3256,
     "team2_name": "NRG",
-    "winner_id": 3256,
+    "match_winner_id": 3256,
     "predicted_winner_name": "Acend",
     "selection_team_name": "Acend",
-    "actual_winner_name": "NRG"
+    "actual_winner_id": 3256,
+    "actual_winner_name": "NRG",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 25,
@@ -1216,7 +1288,7 @@
     "predicted_winner_id": 138830,
     "team1_probability": 0.6669021937022789,
     "team2_probability": 0.3330978062977211,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-08T12:10:29+00:00",
     "paper_bet_id": 377,
     "strategy": "value_3pp",
@@ -1244,10 +1316,13 @@
     "team1_name": "ECHO",
     "team2_id": 126584,
     "team2_name": "OG",
-    "winner_id": 138830,
+    "match_winner_id": 138830,
     "predicted_winner_name": "ECHO",
     "selection_team_name": "ECHO",
-    "actual_winner_name": "ECHO"
+    "actual_winner_id": 138830,
+    "actual_winner_name": "ECHO",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 26,
@@ -1266,7 +1341,7 @@
     "predicted_winner_id": 136560,
     "team1_probability": 0.3745368459768227,
     "team2_probability": 0.6254631540231773,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-09T12:10:20+00:00",
     "paper_bet_id": 402,
     "strategy": "value_3pp",
@@ -1294,10 +1369,13 @@
     "team1_name": "NRG",
     "team2_id": 136560,
     "team2_name": "Phantom",
-    "winner_id": 136560,
+    "match_winner_id": 136560,
     "predicted_winner_name": "Phantom",
     "selection_team_name": "Phantom",
-    "actual_winner_name": "Phantom"
+    "actual_winner_id": 136560,
+    "actual_winner_name": "Phantom",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 27,
@@ -1316,7 +1394,7 @@
     "predicted_winner_id": 137992,
     "team1_probability": 0.5288498560522285,
     "team2_probability": 0.47115014394777155,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-09T11:30:33+00:00",
     "paper_bet_id": 397,
     "strategy": "value_3pp",
@@ -1344,10 +1422,13 @@
     "team1_name": "Fluxo W7M",
     "team2_id": 3217,
     "team2_name": "fnatic",
-    "winner_id": 3217,
+    "match_winner_id": 3217,
     "predicted_winner_name": "Fluxo W7M",
     "selection_team_name": "Fluxo W7M",
-    "actual_winner_name": "fnatic"
+    "actual_winner_id": 3217,
+    "actual_winner_name": "fnatic",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 28,
@@ -1366,7 +1447,7 @@
     "predicted_winner_id": 127114,
     "team1_probability": 0.7280005460603622,
     "team2_probability": 0.27199945393963776,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-10T11:30:10+00:00",
     "paper_bet_id": 414,
     "strategy": "value_3pp",
@@ -1394,10 +1475,13 @@
     "team1_name": "Rooster",
     "team2_id": 138092,
     "team2_name": "Abyssal",
-    "winner_id": 138092,
+    "match_winner_id": 138092,
     "predicted_winner_name": "Rooster",
     "selection_team_name": "Rooster",
-    "actual_winner_name": "Abyssal"
+    "actual_winner_id": 138092,
+    "actual_winner_name": "Abyssal",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 29,
@@ -1416,7 +1500,7 @@
     "predicted_winner_id": 124530,
     "team1_probability": 0.4580671923695545,
     "team2_probability": 0.5419328076304455,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-12T19:30:58+00:00",
     "paper_bet_id": 444,
     "strategy": "value_3pp",
@@ -1444,10 +1528,13 @@
     "team1_name": "Wildcard",
     "team2_id": 124530,
     "team2_name": "FURIA",
-    "winner_id": 124530,
+    "match_winner_id": 124530,
     "predicted_winner_name": "FURIA",
     "selection_team_name": "FURIA",
-    "actual_winner_name": "FURIA"
+    "actual_winner_id": 124530,
+    "actual_winner_name": "FURIA",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 30,
@@ -1466,7 +1553,7 @@
     "predicted_winner_id": 131505,
     "team1_probability": 0.3231582159738076,
     "team2_probability": 0.6768417840261924,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-12T10:30:30+00:00",
     "paper_bet_id": 426,
     "strategy": "value_3pp",
@@ -1494,10 +1581,13 @@
     "team1_name": "BIG",
     "team2_id": 131505,
     "team2_name": "Aurora Gaming",
-    "winner_id": 3249,
+    "match_winner_id": 3249,
     "predicted_winner_name": "Aurora Gaming",
     "selection_team_name": "Aurora Gaming",
-    "actual_winner_name": "BIG"
+    "actual_winner_id": 3249,
+    "actual_winner_name": "BIG",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 31,
@@ -1516,7 +1606,7 @@
     "predicted_winner_id": 135227,
     "team1_probability": 0.2523988836131527,
     "team2_probability": 0.7476011163868472,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-13T20:10:28+00:00",
     "paper_bet_id": 462,
     "strategy": "value_3pp",
@@ -1544,10 +1634,13 @@
     "team1_name": "ENCE",
     "team2_id": 135227,
     "team2_name": "ENJOY",
-    "winner_id": 135227,
+    "match_winner_id": 135227,
     "predicted_winner_name": "ENJOY",
     "selection_team_name": "ENJOY",
-    "actual_winner_name": "ENJOY"
+    "actual_winner_id": 135227,
+    "actual_winner_name": "ENJOY",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 32,
@@ -1566,7 +1659,7 @@
     "predicted_winner_id": 133708,
     "team1_probability": 0.5486553915940162,
     "team2_probability": 0.4513446084059838,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-13T18:40:29+00:00",
     "paper_bet_id": 460,
     "strategy": "value_3pp",
@@ -1594,10 +1687,13 @@
     "team1_name": "Legacy",
     "team2_id": 3212,
     "team2_name": "FaZe",
-    "winner_id": 3212,
+    "match_winner_id": 3212,
     "predicted_winner_name": "Legacy",
     "selection_team_name": "Legacy",
-    "actual_winner_name": "FaZe"
+    "actual_winner_id": 3212,
+    "actual_winner_name": "FaZe",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 33,
@@ -1616,7 +1712,7 @@
     "predicted_winner_id": 126452,
     "team1_probability": 0.32558706423497286,
     "team2_probability": 0.6744129357650271,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-14T19:00:28+00:00",
     "paper_bet_id": 484,
     "strategy": "value_3pp",
@@ -1644,10 +1740,13 @@
     "team1_name": "PARIVISION",
     "team2_id": 126452,
     "team2_name": "100 Thieves",
-    "winner_id": 133719,
+    "match_winner_id": 133719,
     "predicted_winner_name": "100 Thieves",
     "selection_team_name": "100 Thieves",
-    "actual_winner_name": "PARIVISION"
+    "actual_winner_id": 133719,
+    "actual_winner_name": "PARIVISION",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 34,
@@ -1666,7 +1765,7 @@
     "predicted_winner_id": 135227,
     "team1_probability": 0.7770667557573478,
     "team2_probability": 0.22293324424265215,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-14T10:10:33+00:00",
     "paper_bet_id": 467,
     "strategy": "value_3pp",
@@ -1694,10 +1793,13 @@
     "team1_name": "ENJOY",
     "team2_id": 137075,
     "team2_name": "Misa Esports",
-    "winner_id": 135227,
+    "match_winner_id": 135227,
     "predicted_winner_name": "ENJOY",
     "selection_team_name": "ENJOY",
-    "actual_winner_name": "ENJOY"
+    "actual_winner_id": 135227,
+    "actual_winner_name": "ENJOY",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 35,
@@ -1716,7 +1818,7 @@
     "predicted_winner_id": 135273,
     "team1_probability": 0.578684684316562,
     "team2_probability": 0.42131531568343805,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-15T13:50:30+00:00",
     "paper_bet_id": 494,
     "strategy": "value_3pp",
@@ -1744,10 +1846,13 @@
     "team1_name": "Wildcard",
     "team2_id": 125751,
     "team2_name": "paiN",
-    "winner_id": 125751,
+    "match_winner_id": 125751,
     "predicted_winner_name": "Wildcard",
     "selection_team_name": "Wildcard",
-    "actual_winner_name": "paiN"
+    "actual_winner_id": 125751,
+    "actual_winner_name": "paiN",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 36,
@@ -1766,7 +1871,7 @@
     "predicted_winner_id": 137580,
     "team1_probability": 0.4827183461259999,
     "team2_probability": 0.5172816538740002,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-15T10:50:29+00:00",
     "paper_bet_id": 491,
     "strategy": "value_3pp",
@@ -1794,10 +1899,13 @@
     "team1_name": "Bushido Wildcats",
     "team2_id": 137580,
     "team2_name": " Phantom Academy",
-    "winner_id": 137580,
+    "match_winner_id": 137580,
     "predicted_winner_name": " Phantom Academy",
     "selection_team_name": " Phantom Academy",
-    "actual_winner_name": " Phantom Academy"
+    "actual_winner_id": 137580,
+    "actual_winner_name": " Phantom Academy",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 37,
@@ -1816,7 +1924,7 @@
     "predicted_winner_id": 135227,
     "team1_probability": 0.7686703372606014,
     "team2_probability": 0.2313296627393986,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-17T20:50:38+00:00",
     "paper_bet_id": 544,
     "strategy": "value_3pp",
@@ -1844,10 +1952,13 @@
     "team1_name": "ENJOY",
     "team2_id": 125774,
     "team2_name": "HAVU",
-    "winner_id": 125774,
+    "match_winner_id": 125774,
     "predicted_winner_name": "ENJOY",
     "selection_team_name": "ENJOY",
-    "actual_winner_name": "HAVU"
+    "actual_winner_id": 125774,
+    "actual_winner_name": "HAVU",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 38,
@@ -1866,7 +1977,7 @@
     "predicted_winner_id": 136659,
     "team1_probability": 0.7214777081826007,
     "team2_probability": 0.2785222918173993,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-18T16:00:29+00:00",
     "paper_bet_id": 559,
     "strategy": "value_3pp",
@@ -1894,10 +2005,13 @@
     "team1_name": "SPARTA",
     "team2_id": 129160,
     "team2_name": "MOUZ NXT",
-    "winner_id": 136659,
+    "match_winner_id": 136659,
     "predicted_winner_name": "SPARTA",
     "selection_team_name": "SPARTA",
-    "actual_winner_name": "SPARTA"
+    "actual_winner_id": 136659,
+    "actual_winner_name": "SPARTA",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 39,
@@ -1916,7 +2030,7 @@
     "predicted_winner_id": 138963,
     "team1_probability": 0.6464248138624424,
     "team2_probability": 0.35357518613755756,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-19T16:40:10+00:00",
     "paper_bet_id": 578,
     "strategy": "value_3pp",
@@ -1944,10 +2058,13 @@
     "team1_name": "Black Phoenix",
     "team2_id": 136934,
     "team2_name": "Bushido Wildcats",
-    "winner_id": 138963,
+    "match_winner_id": 138963,
     "predicted_winner_name": "Black Phoenix",
     "selection_team_name": "Black Phoenix",
-    "actual_winner_name": "Black Phoenix"
+    "actual_winner_id": 138963,
+    "actual_winner_name": "Black Phoenix",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 40,
@@ -1966,7 +2083,7 @@
     "predicted_winner_id": 136955,
     "team1_probability": 0.5297183349038793,
     "team2_probability": 0.4702816650961207,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-21T13:01:03+00:00",
     "paper_bet_id": 586,
     "strategy": "value_3pp",
@@ -1994,10 +2111,13 @@
     "team1_name": "FUT Esports",
     "team2_id": 3240,
     "team2_name": "MOUZ",
-    "winner_id": 136955,
+    "match_winner_id": 136955,
     "predicted_winner_name": "FUT Esports",
     "selection_team_name": "FUT Esports",
-    "actual_winner_name": "FUT Esports"
+    "actual_winner_id": 136955,
+    "actual_winner_name": "FUT Esports",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 41,
@@ -2016,7 +2136,7 @@
     "predicted_winner_id": 128519,
     "team1_probability": 0.6848128949182147,
     "team2_probability": 0.31518710508178527,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-22T09:50:06+00:00",
     "paper_bet_id": 600,
     "strategy": "value_3pp",
@@ -2044,10 +2164,13 @@
     "team1_name": "GenOne",
     "team2_id": 137703,
     "team2_name": "ex-Zero Tenacity",
-    "winner_id": 137703,
+    "match_winner_id": 137703,
     "predicted_winner_name": "GenOne",
     "selection_team_name": "GenOne",
-    "actual_winner_name": "ex-Zero Tenacity"
+    "actual_winner_id": 137703,
+    "actual_winner_name": "ex-Zero Tenacity",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 42,
@@ -2066,7 +2189,7 @@
     "predicted_winner_id": 138406,
     "team1_probability": 0.539937214412751,
     "team2_probability": 0.460062785587249,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-23T20:00:08+00:00",
     "paper_bet_id": 633,
     "strategy": "value_3pp",
@@ -2094,10 +2217,13 @@
     "team1_name": "Just Players",
     "team2_id": 137703,
     "team2_name": "ex-Zero Tenacity",
-    "winner_id": 137703,
+    "match_winner_id": 137703,
     "predicted_winner_name": "Just Players",
     "selection_team_name": "Just Players",
-    "actual_winner_name": "ex-Zero Tenacity"
+    "actual_winner_id": 137703,
+    "actual_winner_name": "ex-Zero Tenacity",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 43,
@@ -2116,7 +2242,7 @@
     "predicted_winner_id": 137500,
     "team1_probability": 0.7103772278421098,
     "team2_probability": 0.28962277215789023,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-24T20:00:28+00:00",
     "paper_bet_id": 655,
     "strategy": "value_3pp",
@@ -2144,10 +2270,13 @@
     "team1_name": "CYBERSHOKE Prospects",
     "team2_id": 137703,
     "team2_name": "ex-Zero Tenacity",
-    "winner_id": 137500,
+    "match_winner_id": 137500,
     "predicted_winner_name": "CYBERSHOKE Prospects",
     "selection_team_name": "CYBERSHOKE Prospects",
-    "actual_winner_name": "CYBERSHOKE Prospects"
+    "actual_winner_id": 137500,
+    "actual_winner_name": "CYBERSHOKE Prospects",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 44,
@@ -2166,7 +2295,7 @@
     "predicted_winner_id": 125863,
     "team1_probability": 0.5736813954170094,
     "team2_probability": 0.42631860458299065,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-25T22:50:44+00:00",
     "paper_bet_id": 674,
     "strategy": "value_3pp",
@@ -2194,10 +2323,13 @@
     "team1_name": "Isurus",
     "team2_id": 131253,
     "team2_name": "ODDIK",
-    "winner_id": 131253,
+    "match_winner_id": 131253,
     "predicted_winner_name": "Isurus",
     "selection_team_name": "Isurus",
-    "actual_winner_name": "ODDIK"
+    "actual_winner_id": 131253,
+    "actual_winner_name": "ODDIK",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 45,
@@ -2216,7 +2348,7 @@
     "predicted_winner_id": 131110,
     "team1_probability": 0.35551439701040183,
     "team2_probability": 0.6444856029895982,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-26T12:00:10+00:00",
     "paper_bet_id": 680,
     "strategy": "value_3pp",
@@ -2244,10 +2376,13 @@
     "team1_name": "Arcade Esports",
     "team2_id": 131110,
     "team2_name": "Mindfreak",
-    "winner_id": 131110,
+    "match_winner_id": 131110,
     "predicted_winner_name": "Mindfreak",
     "selection_team_name": "Mindfreak",
-    "actual_winner_name": "Mindfreak"
+    "actual_winner_id": 131110,
+    "actual_winner_name": "Mindfreak",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 46,
@@ -2266,7 +2401,7 @@
     "predicted_winner_id": 130570,
     "team1_probability": 0.21604064144268809,
     "team2_probability": 0.7839593585573119,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-27T16:10:10+00:00",
     "paper_bet_id": 712,
     "strategy": "value_3pp",
@@ -2294,10 +2429,13 @@
     "team1_name": "Esport Academy Copenhagen",
     "team2_id": 130570,
     "team2_name": "QUAZAR",
-    "winner_id": 130570,
+    "match_winner_id": 130570,
     "predicted_winner_name": "QUAZAR",
     "selection_team_name": "QUAZAR",
-    "actual_winner_name": "QUAZAR"
+    "actual_winner_id": 130570,
+    "actual_winner_name": "QUAZAR",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 47,
@@ -2316,7 +2454,7 @@
     "predicted_winner_id": 133708,
     "team1_probability": 0.5188635017306965,
     "team2_probability": 0.4811364982693035,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-27T16:41:09+00:00",
     "paper_bet_id": 711,
     "strategy": "value_3pp",
@@ -2344,10 +2482,13 @@
     "team1_name": "Legacy",
     "team2_id": 136955,
     "team2_name": "FUT Esports",
-    "winner_id": 133708,
+    "match_winner_id": 133708,
     "predicted_winner_name": "Legacy",
     "selection_team_name": "Legacy",
-    "actual_winner_name": "Legacy"
+    "actual_winner_id": 133708,
+    "actual_winner_name": "Legacy",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 48,
@@ -2366,7 +2507,7 @@
     "predicted_winner_id": 137861,
     "team1_probability": 0.7142539380763004,
     "team2_probability": 0.28574606192369956,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-28T13:40:13+00:00",
     "paper_bet_id": 729,
     "strategy": "value_3pp",
@@ -2394,10 +2535,13 @@
     "team1_name": "STATE",
     "team2_id": 135321,
     "team2_name": "G2 Ares",
-    "winner_id": 135321,
+    "match_winner_id": 135321,
     "predicted_winner_name": "STATE",
     "selection_team_name": "STATE",
-    "actual_winner_name": "G2 Ares"
+    "actual_winner_id": 135321,
+    "actual_winner_name": "G2 Ares",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 49,
@@ -2416,7 +2560,7 @@
     "predicted_winner_id": 136064,
     "team1_probability": 0.44552421627396693,
     "team2_probability": 0.554475783726033,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-29T02:50:09+00:00",
     "paper_bet_id": 749,
     "strategy": "value_3pp",
@@ -2444,10 +2588,13 @@
     "team1_name": "Marsborne",
     "team2_id": 136064,
     "team2_name": "Chicken Coop Esports",
-    "winner_id": 136318,
+    "match_winner_id": 136318,
     "predicted_winner_name": "Chicken Coop Esports",
     "selection_team_name": "Chicken Coop Esports",
-    "actual_winner_name": "Marsborne"
+    "actual_winner_id": 136318,
+    "actual_winner_name": "Marsborne",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 50,
@@ -2466,7 +2613,7 @@
     "predicted_winner_id": 133063,
     "team1_probability": 0.42629394347072364,
     "team2_probability": 0.5737060565292764,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-08-29T14:20:04+00:00",
     "paper_bet_id": 761,
     "strategy": "value_3pp",
@@ -2494,10 +2641,13 @@
     "team1_name": "Bushido Wildcats",
     "team2_id": 133063,
     "team2_name": "UNiTY esports",
-    "winner_id": 133063,
+    "match_winner_id": 133063,
     "predicted_winner_name": "UNiTY esports",
     "selection_team_name": "UNiTY esports",
-    "actual_winner_name": "UNiTY esports"
+    "actual_winner_id": 133063,
+    "actual_winner_name": "UNiTY esports",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 51,
@@ -2516,7 +2666,7 @@
     "predicted_winner_id": 126624,
     "team1_probability": 0.5929560652497742,
     "team2_probability": 0.4070439347502258,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-31T15:30:28+00:00",
     "paper_bet_id": 796,
     "strategy": "value_3pp",
@@ -2544,10 +2694,13 @@
     "team1_name": "Brute",
     "team2_id": 137440,
     "team2_name": "ASTRAL",
-    "winner_id": 137440,
+    "match_winner_id": 137440,
     "predicted_winner_name": "Brute",
     "selection_team_name": "Brute",
-    "actual_winner_name": "ASTRAL"
+    "actual_winner_id": 137440,
+    "actual_winner_name": "ASTRAL",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 52,
@@ -2566,7 +2719,7 @@
     "predicted_winner_id": 130564,
     "team1_probability": 0.37303377828250256,
     "team2_probability": 0.6269662217174974,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-08-31T18:10:28+00:00",
     "paper_bet_id": 795,
     "strategy": "value_3pp",
@@ -2594,10 +2747,13 @@
     "team1_name": "MOUZ",
     "team2_id": 130564,
     "team2_name": "Team Falcons",
-    "winner_id": 3240,
+    "match_winner_id": 3240,
     "predicted_winner_name": "Team Falcons",
     "selection_team_name": "Team Falcons",
-    "actual_winner_name": "MOUZ"
+    "actual_winner_id": 3240,
+    "actual_winner_name": "MOUZ",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 53,
@@ -2616,7 +2772,7 @@
     "predicted_winner_id": 135673,
     "team1_probability": 0.7105192975704058,
     "team2_probability": 0.2894807024295942,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-09-01T20:10:08+00:00",
     "paper_bet_id": 819,
     "strategy": "value_3pp",
@@ -2644,10 +2800,13 @@
     "team1_name": "Nuclear TigeRES",
     "team2_id": 139106,
     "team2_name": "Color",
-    "winner_id": 135673,
+    "match_winner_id": 135673,
     "predicted_winner_name": "Nuclear TigeRES",
     "selection_team_name": "Nuclear TigeRES",
-    "actual_winner_name": "Nuclear TigeRES"
+    "actual_winner_id": 135673,
+    "actual_winner_name": "Nuclear TigeRES",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 54,
@@ -2666,7 +2825,7 @@
     "predicted_winner_id": 127976,
     "team1_probability": 0.7032547854756741,
     "team2_probability": 0.2967452145243259,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-09-01T13:30:26+00:00",
     "paper_bet_id": 809,
     "strategy": "value_3pp",
@@ -2694,10 +2853,13 @@
     "team1_name": "Infinite",
     "team2_id": 138101,
     "team2_name": "Inner Circle Academy",
-    "winner_id": 127976,
+    "match_winner_id": 127976,
     "predicted_winner_name": "Infinite",
     "selection_team_name": "Infinite",
-    "actual_winner_name": "Infinite"
+    "actual_winner_id": 127976,
+    "actual_winner_name": "Infinite",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 55,
@@ -2716,7 +2878,7 @@
     "predicted_winner_id": 138963,
     "team1_probability": 0.53407440780907,
     "team2_probability": 0.46592559219093,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-09-15T13:20:28+00:00",
     "paper_bet_id": 928,
     "strategy": "value_3pp",
@@ -2744,10 +2906,13 @@
     "team1_name": "Black Phoenix",
     "team2_id": 138406,
     "team2_name": "Just Players",
-    "winner_id": 138406,
+    "match_winner_id": 138406,
     "predicted_winner_name": "Black Phoenix",
     "selection_team_name": "Black Phoenix",
-    "actual_winner_name": "Just Players"
+    "actual_winner_id": 138406,
+    "actual_winner_name": "Just Players",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 56,
@@ -2766,7 +2931,7 @@
     "predicted_winner_id": 138179,
     "team1_probability": 0.41129737908315345,
     "team2_probability": 0.5887026209168466,
-    "prediction_result": "loss",
+    "stored_prediction_result": "loss",
     "evaluated_at": "2026-09-30T18:00:11+00:00",
     "paper_bet_id": 1031,
     "strategy": "value_3pp",
@@ -2794,10 +2959,13 @@
     "team1_name": "Reveal",
     "team2_id": 138179,
     "team2_name": "Huskies eSport",
-    "winner_id": 132551,
+    "match_winner_id": 132551,
     "predicted_winner_name": "Huskies eSport",
     "selection_team_name": "Huskies eSport",
-    "actual_winner_name": "Reveal"
+    "actual_winner_id": 132551,
+    "actual_winner_name": "Reveal",
+    "prediction_result": "loss",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 57,
@@ -2816,7 +2984,7 @@
     "predicted_winner_id": 138276,
     "team1_probability": 0.2963390226296974,
     "team2_probability": 0.7036609773703026,
-    "prediction_result": "win",
+    "stored_prediction_result": "win",
     "evaluated_at": "2026-09-29T23:51:04+00:00",
     "paper_bet_id": 1018,
     "strategy": "value_3pp",
@@ -2844,10 +3012,13 @@
     "team1_name": "MEIA NOITE",
     "team2_id": 138276,
     "team2_name": "ALKA GAMING",
-    "winner_id": 138276,
+    "match_winner_id": 138276,
     "predicted_winner_name": "ALKA GAMING",
     "selection_team_name": "ALKA GAMING",
-    "actual_winner_name": "ALKA GAMING"
+    "actual_winner_id": 138276,
+    "actual_winner_name": "ALKA GAMING",
+    "prediction_result": "win",
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 58,
@@ -2866,7 +3037,7 @@
     "predicted_winner_id": 139200,
     "team1_probability": 0.3726720392256092,
     "team2_probability": 0.6273279607743908,
-    "prediction_result": null,
+    "stored_prediction_result": null,
     "evaluated_at": null,
     "paper_bet_id": 1090,
     "strategy": "value_3pp",
@@ -2894,10 +3065,13 @@
     "team1_name": "SAW",
     "team2_id": 139200,
     "team2_name": "Nice Try",
-    "winner_id": null,
+    "match_winner_id": null,
     "predicted_winner_name": "Nice Try",
     "selection_team_name": "Nice Try",
-    "actual_winner_name": null
+    "actual_winner_id": null,
+    "actual_winner_name": null,
+    "prediction_result": null,
+    "is_public_channel": 1
   },
   {
     "public_prediction_id": 59,
@@ -2916,7 +3090,7 @@
     "predicted_winner_id": 132426,
     "team1_probability": 0.5965180149277217,
     "team2_probability": 0.4034819850722783,
-    "prediction_result": null,
+    "stored_prediction_result": null,
     "evaluated_at": null,
     "paper_bet_id": 1102,
     "strategy": "value_3pp",
@@ -2944,9 +3118,12 @@
     "team1_name": "Lazer Cats",
     "team2_id": 126738,
     "team2_name": "SAW",
-    "winner_id": null,
+    "match_winner_id": null,
     "predicted_winner_name": "Lazer Cats",
     "selection_team_name": "Lazer Cats",
-    "actual_winner_name": null
+    "actual_winner_id": null,
+    "actual_winner_name": null,
+    "prediction_result": null,
+    "is_public_channel": 1
   }
 ]
