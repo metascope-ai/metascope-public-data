@@ -2000,5 +2000,47 @@
     "profit": 2100.0,
     "bank_before": 93135.0,
     "bank_after": 95235.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1132,
+    "match_id": 1711379,
+    "settled_at": "2026-10-04T13:10:12+00:00",
+    "team1_name": "9z",
+    "team2_name": "TYLOO",
+    "predicted_winner_name": "9z",
+    "selection_odds": 1.65,
+    "stake": 1000.0,
+    "profit": 649.9999999999999,
+    "bank_before": 95235.0,
+    "bank_after": 95885.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1134,
+    "match_id": 1682128,
+    "settled_at": "2026-10-04T14:51:10+00:00",
+    "team1_name": "Luminosity",
+    "team2_name": "Astralis",
+    "predicted_winner_name": "Astralis",
+    "selection_odds": 1.625,
+    "stake": 1000.0,
+    "profit": 625.0,
+    "bank_before": 95885.0,
+    "bank_after": 96510.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1136,
+    "match_id": 1711381,
+    "settled_at": "2026-10-04T17:00:57+00:00",
+    "team1_name": "G2",
+    "team2_name": "1WIN",
+    "predicted_winner_name": "1WIN",
+    "selection_odds": 3.096,
+    "stake": 1000.0,
+    "profit": 2096.0,
+    "bank_before": 96510.0,
+    "bank_after": 98606.0
   }
 ]
