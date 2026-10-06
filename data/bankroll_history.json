@@ -2042,5 +2042,47 @@
     "profit": 2096.0,
     "bank_before": 96510.0,
     "bank_after": 98606.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1165,
+    "match_id": 1728293,
+    "settled_at": "2026-10-05T09:30:28+00:00",
+    "team1_name": "Elite Klan",
+    "team2_name": "CTRL Esports",
+    "predicted_winner_name": "Elite Klan",
+    "selection_odds": 2.286,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 98606.0,
+    "bank_after": 97606.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1173,
+    "match_id": 1711390,
+    "settled_at": "2026-10-05T14:10:38+00:00",
+    "team1_name": "9z",
+    "team2_name": "Natus Vincere",
+    "predicted_winner_name": "9z",
+    "selection_odds": 2.86,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 97606.0,
+    "bank_after": 96606.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1181,
+    "match_id": 1711437,
+    "settled_at": "2026-10-05T19:20:14+00:00",
+    "team1_name": "Vitality",
+    "team2_name": "Team Falcons",
+    "predicted_winner_name": "Team Falcons",
+    "selection_odds": 2.425,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 96606.0,
+    "bank_after": 95606.0
   }
 ]
