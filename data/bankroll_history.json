@@ -2084,5 +2084,61 @@
     "profit": -1000.0,
     "bank_before": 96606.0,
     "bank_after": 95606.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1210,
+    "match_id": 1711439,
+    "settled_at": "2026-10-06T14:00:31+00:00",
+    "team1_name": "Spirit",
+    "team2_name": "1WIN",
+    "predicted_winner_name": "1WIN",
+    "selection_odds": 5.75,
+    "stake": 1000.0,
+    "profit": 4750.0,
+    "bank_before": 95606.0,
+    "bank_after": 100356.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1209,
+    "match_id": 1711438,
+    "settled_at": "2026-10-06T15:20:56+00:00",
+    "team1_name": "G2",
+    "team2_name": "PARIVISION",
+    "predicted_winner_name": "G2",
+    "selection_odds": 1.7,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 100356.0,
+    "bank_after": 99356.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1216,
+    "match_id": 1700504,
+    "settled_at": "2026-10-06T19:30:14+00:00",
+    "team1_name": "WRAITH PCIFIC",
+    "team2_name": "Lavked",
+    "predicted_winner_name": "Lavked",
+    "selection_odds": 1.881,
+    "stake": 1000.0,
+    "profit": 881.0,
+    "bank_before": 99356.0,
+    "bank_after": 100237.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1217,
+    "match_id": 1711469,
+    "settled_at": "2026-10-06T19:41:08+00:00",
+    "team1_name": "Legacy",
+    "team2_name": "M80",
+    "predicted_winner_name": "Legacy",
+    "selection_odds": 1.715,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 100237.0,
+    "bank_after": 99237.0
   }
 ]
