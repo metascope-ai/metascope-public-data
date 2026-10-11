@@ -2140,5 +2140,19 @@
     "profit": -1000.0,
     "bank_before": 100237.0,
     "bank_after": 99237.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1238,
+    "match_id": 1731096,
+    "settled_at": "2026-10-11T02:30:12+00:00",
+    "team1_name": "Wanted Goons",
+    "team2_name": "Detonate",
+    "predicted_winner_name": "Wanted Goons",
+    "selection_odds": 2.267,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 99237.0,
+    "bank_after": 98237.0
   }
 ]
