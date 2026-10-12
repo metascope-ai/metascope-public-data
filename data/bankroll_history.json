@@ -2154,5 +2154,47 @@
     "profit": -1000.0,
     "bank_before": 99237.0,
     "bank_after": 98237.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1236,
+    "match_id": 1731086,
+    "settled_at": "2026-10-11T03:50:25+00:00",
+    "team1_name": "Iowa Stormboar",
+    "team2_name": "Zomblers",
+    "predicted_winner_name": "Zomblers",
+    "selection_odds": 2.055,
+    "stake": 1000.0,
+    "profit": 1055.0000000000002,
+    "bank_before": 98237.0,
+    "bank_after": 99292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1240,
+    "match_id": 1735933,
+    "settled_at": "2026-10-11T07:40:15+00:00",
+    "team1_name": "NEXVOID",
+    "team2_name": "Chinggis Warriors",
+    "predicted_winner_name": "NEXVOID",
+    "selection_odds": 1.98,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 99292.0,
+    "bank_after": 98292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1243,
+    "match_id": 1730995,
+    "settled_at": "2026-10-11T12:10:49+00:00",
+    "team1_name": "STATE",
+    "team2_name": "WRAITH PCIFIC",
+    "predicted_winner_name": "STATE",
+    "selection_odds": 1.49,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 98292.0,
+    "bank_after": 97292.0
   }
 ]
