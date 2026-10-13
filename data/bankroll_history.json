@@ -2196,5 +2196,47 @@
     "profit": -1000.0,
     "bank_before": 98292.0,
     "bank_after": 97292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1267,
+    "match_id": 1731099,
+    "settled_at": "2026-10-12T03:50:24+00:00",
+    "team1_name": "Overtake Sector",
+    "team2_name": "regain",
+    "predicted_winner_name": "regain",
+    "selection_odds": 1.94,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 97292.0,
+    "bank_after": 96292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1268,
+    "match_id": 1728242,
+    "settled_at": "2026-10-12T11:40:14+00:00",
+    "team1_name": "Bread Eaters Esports",
+    "team2_name": "Passion Academy",
+    "predicted_winner_name": "Passion Academy",
+    "selection_odds": 2.154,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 96292.0,
+    "bank_after": 95292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1279,
+    "match_id": 1731088,
+    "settled_at": "2026-10-13T02:51:11+00:00",
+    "team1_name": "Chicken Coop Esports",
+    "team2_name": "Zomblers",
+    "predicted_winner_name": "Zomblers",
+    "selection_odds": 2.585,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 95292.0,
+    "bank_after": 94292.0
   }
 ]
