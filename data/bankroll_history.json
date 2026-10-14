@@ -2238,5 +2238,47 @@
     "profit": -1000.0,
     "bank_before": 95292.0,
     "bank_after": 94292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1283,
+    "match_id": 1744786,
+    "settled_at": "2026-10-13T10:00:30+00:00",
+    "team1_name": "Copenhagen Wolves",
+    "team2_name": "VP.Future 3",
+    "predicted_winner_name": "VP.Future 3",
+    "selection_odds": 4.09,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 94292.0,
+    "bank_after": 93292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1287,
+    "match_id": 1744787,
+    "settled_at": "2026-10-13T14:10:59+00:00",
+    "team1_name": "ROUNDS",
+    "team2_name": "Vitality Academy",
+    "predicted_winner_name": "Vitality Academy",
+    "selection_odds": 1.96,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 93292.0,
+    "bank_after": 92292.0
+  },
+  {
+    "experiment_version": "paper_v3",
+    "paper_bet_id": 1294,
+    "match_id": 1745527,
+    "settled_at": "2026-10-13T22:10:10+00:00",
+    "team1_name": "Grêmio Esports",
+    "team2_name": "Los Niños",
+    "predicted_winner_name": "Grêmio Esports",
+    "selection_odds": 1.75,
+    "stake": 1000.0,
+    "profit": -1000.0,
+    "bank_before": 92292.0,
+    "bank_after": 91292.0
   }
 ]
